@@ -6,3 +6,33 @@
     box-sizing: border-box;
 }
 
+
+/* *** nav *** */
+
+.scrool {
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+    border: 3px solid blue;
+    position: fixed;
+    top: 20px;
+    right: 10px;
+}
+
+
+
+.grande {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}  
+
+
+
+.box {
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+    border: 3px solid black;
+    
+}
