@@ -10,10 +10,6 @@
 /* *** nav *** */
 
 .scrool {
-    width: 200px;
-    height: 200px;
-    background-color: green;
-    border: 3px solid blue;
     position: fixed;
     top: 20px;
     right: 10px;
@@ -28,11 +24,16 @@
 .scrool span {
     display: inline-block;
     width: 50px;
-    height: 50px;
     background-color: white;
     border-radius: 50%;
     text-align: center;
     line-height: 50px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
 }
 
 
